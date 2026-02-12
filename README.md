@@ -99,12 +99,12 @@ Example results:
 
 * Confusion Matrix
 
-![Confusion Matrix](images/Confusion Matrix.jpeg)
+![Confusion Matrix](images/CM.jpeg)
 
 
 * Pre-class Accuracy For Each Emotion
 
-![Prediction Samples](images/Pre-class Accuracy For Each Emotion.jpeg)
+![Prediction Samples](images/PEAC.jpeg)
 
 * Some Example
 
