@@ -97,11 +97,16 @@ Example results:
 * Validation Accuracy: ~ 66.82%
 * Test Accuracy: ~ 67.32%
 
+* Confusion Matrix
+
 ![Confusion Matrix](images/Confusion Matrix.jpeg)
 
 
+* Pre-class Accuracy For Each Emotion
+
 ![Prediction Samples](images/Pre-class Accuracy For Each Emotion.jpeg)
 
+* Some Example
 
 ![EX-1](images/EX-1.jpeg)
 
