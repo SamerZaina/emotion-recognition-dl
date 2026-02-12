@@ -1,0 +1,12 @@
+# Dataset
+archive/
+*.zip
+
+# Model files
+*.h5
+outputs/models/
+outputs/results/*.png
+outputs/results/*.json
+
+# Logs
+outputs/logs/
