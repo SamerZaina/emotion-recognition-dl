@@ -1,12 +1,19 @@
-# Dataset
+# dataset
 archive/
-*.zip
 
-# Model files
+# models
 *.h5
-outputs/models/
-outputs/results/*.png
-outputs/results/*.json
 
-# Logs
-outputs/logs/
+# outputs
+outputs/
+
+# test images
+ImgTest/
+
+# exported notebooks / html
+*.html
+
+# misc
+*.zip
+*.png
+*.json
